@@ -1,4 +1,4 @@
-# newsweek-bootstrap
+# smashing-design
 A the Newsweek website built using bootstrap
 
 
@@ -15,23 +15,21 @@ A the Newsweek website built using bootstrap
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-# Newsweek Bootstrap
-A clone page of a New York Times article page using HTML and CSS.
+# Smashing Magazine
+A clone page of the structure of the Smashing Magazine using HTML and CSS.
 
-The page is fully responsive using Bootstrap and CSS float rules to control the page. The project was made as part of the Microverse curriculum.
+The page is fully responsive using Bootstrap. The project is made as part of the Microverse curriculum.
 
 Features:
 
 # HTML and CSS
-- Full content replica of the landing page of Newsweek https://www.newsweek.com/
+- Full content replica of the landing page of smashing magazine https://www.smashingmagazine.com/
 
 Preview of the final page at:
-https://wickathou.github.io/newsweek-bootstrap/index.html
+https://wickathou.github.io/smashing-design/index.html
 
 Made by Javier Hernandez @wickathou
 # Microverse @microverse
-
-
 
 ### Built With
 
@@ -44,8 +42,6 @@ Made by Javier Hernandez @wickathou
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
