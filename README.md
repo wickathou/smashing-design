@@ -41,7 +41,7 @@ Made by Javier Hernandez @wickathou
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+No license.
 
 <!-- CONTACT -->
 ## Contact
